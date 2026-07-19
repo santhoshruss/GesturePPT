@@ -1,0 +1,2 @@
+Place a demo GIF of the app in action here (assets/demo.gif) and reference
+it in README.md, e.g.: ![Demo](assets/demo.gif)

@@ -1,0 +1,9 @@
+opencv-python==4.10.0.84
+mediapipe==0.10.14
+pyautogui==0.9.54
+numpy==1.26.4
+pynput==1.7.7
+pywin32==306; platform_system == "Windows"
+pygetwindow==0.0.9; platform_system != "Windows"
+pyinstaller==6.10.0
+pytest==8.3.2
